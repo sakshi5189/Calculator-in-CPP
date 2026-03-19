@@ -1,2 +1,2 @@
-# Calculator-in-CPP
-This is Calculator Program Using CPP
+# Calculator_In_CPP
+This is a Calculator Program Using CPP
